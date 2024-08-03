@@ -36,11 +36,6 @@ I'm a third-year Information Systems student at ITB STIKOM Bali with a passion f
 - [Building Scalable Web Apps with Next.js](https://your-blog-link.com/nextjs)
 - [A Beginner’s Guide to Machine Learning](https://your-blog-link.com/machine-learning)
 
-## 🧩 Fun Facts
-- I enjoy solving coding challenges and puzzles in my spare time.
-- I’m an avid reader of tech blogs and always keep up with the latest industry trends.
-- I love exploring new programming languages and tools.
-
 ## 📫 How to Reach Me
 <p align="center">
   <a href="https://id.linkedin.com/in/agungprema"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
