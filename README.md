@@ -7,35 +7,6 @@
 ## 🚀 About Me
 I'm a third-year Information Systems student at ITB STIKOM Bali with a passion for IT, software, and data. As a solution-oriented problem solver, I'm always eager to learn and challenge myself. My curiosity drives me to explore new technologies and concepts.
 
-## 🛠 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-</p>
-
-## 🔭 I'm Currently Working On
-- Enhancing my full-stack development skills
-- Contributing to open-source projects
-- Building a personal portfolio website
-
-## 🌱 I'm Currently Learning
-- Advanced React and Next.js concepts
-- Cloud computing and serverless architectures
-- Machine Learning with Python
-
-## 📝 Recent Blog Posts
-- [How to Get Started with TypeScript](https://your-blog-link.com/typescript)
-- [Building Scalable Web Apps with Next.js](https://your-blog-link.com/nextjs)
-- [A Beginner’s Guide to Machine Learning](https://your-blog-link.com/machine-learning)
-
 ## 📫 How to Reach Me
 <p align="center">
   <a href="https://id.linkedin.com/in/agungprema"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
